@@ -1,1 +1,1 @@
-print("hello")
+dollar_amount = float(input("Enter dollar amount to be converted: "))
