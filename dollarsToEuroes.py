@@ -1,1 +1,2 @@
-dollar_amount = float(input("Enter dollar amount to be converted: "))
+dollar = float(input("Enter dollar amount to be converted: "))
+euros = dollar * .94540
